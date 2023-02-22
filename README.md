@@ -1,2 +1,2 @@
 # projeto-finans
- SIte fictício sw finanças com design responsivo
+ Site fictício com software de gestão finançeira com design responsivo
