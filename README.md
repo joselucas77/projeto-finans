@@ -6,7 +6,7 @@
 
 <img src="img/print.jpg" alt="visualização nos dispositivos moveis">
 
-<a href="https://joselucas77.github.io/jogo-mata_mosquito/">🔗 Acesse aqui o projeto</a>
+<a href="https://joselucas77.github.io/projeto-finans/">🔗 Acesse aqui o projeto</a>
 
 ## Tecnologias ultilizadas e informações adicionais
 
